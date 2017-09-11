@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.kaiser.config.Config"/>
+      <class name="com.kaiser.pages.Registration"/>
+      <class name="com.kaiser.pages.Home"/>
+      <class name="com.kaiser.module.TestBase_Kaiser"/>
+      <class name="com.kaiser.module.test.KaiserTest"/>
+      <class name="com.kaiser.KaiserTest.App"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->
